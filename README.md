@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development, Mobile development, and AI/ML.<br>👯 I’m looking to collaborate on profitable projects.<br>🤝 I’m looking for help with Web development, Mobile development, and potentially game development.<br>🌱 I’m currently learning Vue Native, Tensorflow, and Swift.<br>💬 Ask me about new project idea.<br>⚡ Fun fact: prefer living in a cave.
+🔭 I’m currently working on Web development, Mobile development, and AI/ML.<br>👯 I’m looking to collaborate on profitable projects.<br>🤝 I’m looking for help with Web development, Mobile development, and potentially game development.<br>🌱 I’m currently learning Vue Native, Tensorflow, and Swift.<br>💬 Ask me about new project idea.<br>⚡ Fun fact: lived like a shadow.
 
 
 ## 🌐 Socials:
